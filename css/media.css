@@ -1,0 +1,698 @@
+@media (max-width: 1199px) and (min-width: 992px) {
+    /* ==== Responsive for large device like large Tabs or Laptop screen ==== */
+    #banner {
+        position: relative;
+        padding-top: 150px;
+    }
+    #about-me {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    #service {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    #skills {
+        padding-top: 80px;
+    }
+    #skills .headline {
+        padding-bottom: 100px;
+    }
+    #portfolio {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    #testimonial {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    #articles {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    /* =================
+    Blog Page Responsive
+    ==================== */
+    .blog-recent-item a {
+        font: 500 15px/20px 'Montserrat', sans-serif;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    /* ==== Responsive for medium device like tabs ==== */
+    nav {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .nav-item {
+        width: 100%;
+        padding-left: 0;
+    }
+    .nav-item .nav-link {
+        padding-left: 0px;
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100%;
+        border-radius: 3px;
+        color: white;
+        text-align: center;
+        border: 1px solid #1C9EE1;
+        background: #1C9EE1;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+    }
+    .nav-link:hover {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    .active .nav-link {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    #banner {
+        padding-top: 130px;
+    }
+    #banner h1 {
+        font: 700 42px/50px 'Montserrat', sans-serif;
+    }
+    #about-me {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #about-me h3 {
+        font: 700 22px/30px 'Montserrat', sans-serif;
+        padding-bottom: 10px;
+    }
+    #about-me p {
+        font: 400 14px/30px 'Montserrat', sans-serif;
+    }
+    #about-me a {
+        padding: 15px 35px;
+        margin-top: 10px;
+        font: 400 16px/20px 'Montserrat', sans-serif;
+    }
+    #service {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    #service .headline {
+        padding-bottom: 80px;
+    }
+    #skills {
+        padding-top: 60px;
+    }
+    #skills .headline {
+        padding-bottom: 80px;
+    }
+    #portfolio {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #portfolio .headline {
+        padding-bottom: 80px;
+    }
+    .filter-btn {
+        margin-bottom: 60px;
+    }
+    .portfolio-view {
+        padding-top: 30px;
+    }
+    .hire-overlay {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #testimonial {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    #testimonial .headline {
+        margin-bottom: 80px;
+    }
+    #articles {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #articles .headline {
+        margin-bottom: 80px;
+    }
+    .articles-info a {
+        font: 700 16px/26px 'Montserrat', sans-serif;
+    }
+    #articles .show-more {
+        margin-top: 50px;
+    }
+    #contact {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #contact .headline {
+        padding-bottom: 80px;
+    }
+    #contact textarea {
+        margin-top: 30px;
+    }
+    #contact button {
+        margin-top: 30px;
+    }
+    footer {
+        padding-top: 50px;
+    }
+    .footer-line {
+        margin-top: 20px;
+    }
+    .copyright {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    /* =================
+    Blog Page Responsive
+    ==================== */
+    #blogs-page #blogs-content {
+        padding-top: 110px;
+    }
+    .blog-recent-item a {
+        font: 500 14px/20px 'Montserrat', sans-serif;
+    }
+    #blogs-page .articles-info {
+        padding-top: 20px;
+    }
+    #blogs-page .articles-info a {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 767px) and (min-width: 576px) {
+    /* ==== Responsive for small device like Potrait mobile phone or small tabs ==== */
+    nav {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .nav-item {
+        width: 100%;
+        padding-left: 0;
+    }
+    .nav-item .nav-link {
+        padding-left: 0px;
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100%;
+        border-radius: 3px;
+        color: white;
+        text-align: center;
+        border: 1px solid #1C9EE1;
+        background: #1C9EE1;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+    }
+    .nav-link:hover {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    .active .nav-link {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    #banner {
+        padding-top: 120px;
+    }
+    .banner-image {
+        margin-top: 50px;
+    }
+    #about-me {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #about-me h3 {
+        padding-bottom: 15px;
+        padding-top: 30px;
+    }
+    #about-me a {
+        margin-top: 10px;
+    }
+    #service {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    #service h4::after {
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #skills {
+        padding-top: 60px;
+    }
+    #skills .headline {
+        padding-bottom: 80px;
+    }
+    #portfolio {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #portfolio .headline {
+        padding-bottom: 80px;
+    }
+    .filter-btn {
+        margin-bottom: 80px;
+    }
+    .filter-btn button {
+        font: 600 16px/30px 'Montserrat', sans-serif;
+    }
+    .portfolio-overlay {
+        padding: 15px;
+    }
+    .portfolio-item h5 {
+        padding-top: 20px;
+    }
+    .portfolio-overlay p {
+        font: 300 15px/25px 'Montserrat', sans-serif;
+        ;
+        padding-top: 20px;
+    }
+    .portfolio-view {
+        padding-top: 30px;
+    }
+    .hire-overlay {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #hire h3 {
+        font: 700 45px/60px 'Montserrat', sans-serif;
+        padding-bottom: 30px;
+    }
+    #testimonial {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #testimonial .headline {
+        margin-bottom: 80px;
+    }
+    #articles {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #articles .headline {
+        margin-bottom: 90px;
+    }
+    .articles-item {
+        margin-bottom: 30px;
+    }
+    .articles-info {
+        padding: 20px 20px 20px 20px;
+    }
+    .articles-info a {
+        font: 700 16px/20px 'Montserrat', sans-serif;
+    }
+    #articles .show-more {
+        margin-top: 40px;
+    }
+    #contact {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #contact .info {
+        display: block;
+    }
+    #contact .info #name {
+        margin-bottom: 30px;
+    }
+    #contact textarea {
+        margin-top: 30px;
+    }
+    #contact button {
+        margin-top: 30px;
+    }
+    /* ====================
+       Blog Page Responsive
+       ==================== */
+    #blogs-page #blogs-content {
+        padding-top: 110px;
+    }
+    .blg-slider-overlay .caption {
+        font: 700 18px/24px 'Montserrat', sans-serif;
+    }
+    .blog-recent-item a {
+        font: 500 14px/18px 'Montserrat', sans-serif;
+    }
+    .blog-categories a {
+        font: 500 15px/22px 'Montserrat', sans-serif;
+    }
+    .blog-tags a {
+        display: inline-block;
+        padding: 8px 10px;
+        font: 400 14px/20px 'Montserrat', sans-serif;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+    /* ==========================
+        Error 404 Page Responsive
+       ========================== */
+    /* ==== Error 404 section start ==== */
+    #error-page h1 {
+        font: 700 150px/170px 'Montserrat', sans-serif;
+    }
+    #error-page p {
+        font: 700 30px/45px 'Montserrat', sans-serif;
+    }
+    #error-page .home-btn a {
+        font: 700 25px/35px 'Montserrat', sans-serif;
+        padding: 20px 40px;
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    /* ==== Responsive for extra small device like mobile phone === */
+    nav {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .nav-item {
+        width: 100%;
+        padding-left: 0;
+    }
+    .nav-item .nav-link {
+        padding-left: 0px;
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        width: 100%;
+        border-radius: 3px;
+        color: white;
+        text-align: center;
+        border: 1px solid #1C9EE1;
+        background: #1C9EE1;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+    }
+    .nav-link:hover {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    .active .nav-link {
+        color: #1C9EE1;
+        background: transparent;
+        border: 1px solid #1C9EE1;
+    }
+    #banner {
+        padding-top: 130px;
+    }
+    #banner h5 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #banner h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    #banner span {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #banner p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .banner-link a {
+        font-size: 15px;
+        line-height: 20px;
+        padding: 13px 28px;
+        margin-right: 15px;
+    }
+    .banner-image {
+        margin-top: 50px;
+    }
+    #about-me {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #about-me h3 {
+        font: 700 25px/30px 'Montserrat', sans-serif;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    #about-me p {
+        font: 400 14px/30px 'Montserrat', sans-serif;
+    }
+    #about-me a {
+        padding: 15px 35px;
+        margin-top: 15px;
+        font: 400 16px/22px 'Montserrat', sans-serif;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    #service .headline {
+        padding-bottom: 80px;
+    }
+    #service h4::after {
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #skills {
+        padding-top: 60px;
+    }
+    #skills .headline {
+        padding-bottom: 80px;
+    }
+    #portfolio {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    #portfolio .headline {
+        padding-bottom: 80px;
+    }
+    .filter-btn {
+        margin-bottom: 50px;
+    }
+    .filter-btn button {
+        font: 600 15px/25px 'Montserrat', sans-serif;
+        padding: 5px 0px;
+    }
+    .portfolio-view {
+        padding-top: 30px;
+    }
+    .hire-overlay {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #hire h3 {
+        padding-bottom: 30px;
+    }
+    #hire h3 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    #hire a {
+        font: 300 16px/25px 'Montserrat', sans-serif;
+        padding: 13px 35px;
+    }
+    #testimonial {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #testimonial .headline {
+        margin-bottom: 80px;
+    }
+    #testimonial .slick-list {
+        margin-left: 0px;
+    }
+    .testimonial-slider-item p {
+        font: 400 14px/30px 'Montserrat', sans-serif;
+    }
+    #articles {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #articles .headline {
+        margin-bottom: 80px;
+    }
+    .articles-item {
+        margin-bottom: 25px;
+    }
+    .articles-info {
+        padding: 20px 15px 15px 15px;
+    }
+    .articles-info a {
+        font: 700 18px/25px 'Montserrat', sans-serif;
+    }
+    #articles .show-more {
+        margin-top: 30px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    #contact {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #contact .headline {
+        padding-bottom: 80px;
+    }
+    #contact .info {
+        display: block;
+    }
+    .info #name {
+        margin-bottom: 30px;
+    }
+    #contact textarea {
+        margin-top: 30px;
+    }
+    #contact button {
+        margin-top: 30px;
+    }
+    footer {
+        padding-top: 60px;
+    }
+    footer p {
+        padding-top: 20px;
+    }
+    .footer-item {
+        padding-bottom: 0px;
+    }
+    .footer-title {
+        padding-bottom: 10px;
+    }
+    .copyright {
+        display: block;
+    }
+    .copyright p {
+        font: 300 14px/22px 'Montserrat', sans-serif;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .footer-icon {
+        display: flex;
+        justify-content: center;
+    }
+    .footer-icon a {
+        margin-right: 20px;
+        margin-left: 0px;
+    }
+    /* ====================
+       Blog Page Responsive
+       ==================== */
+    #blogs-page #blogs-content {
+        padding-top: 110px;
+    }
+    .blog-slider-main {
+        border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+    }
+    .blg-slider-overlay .caption {
+        font: 700 20px/24px 'Montserrat', sans-serif;
+    }
+    .blog-recent-item a {
+        font: 500 14px/20px 'Montserrat', sans-serif;
+    }
+    .blog-tags a {
+        display: inline-block;
+        padding: 8px 10px;
+        font: 400 14px/20px 'Montserrat', sans-serif;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+    /* ============================
+        Blog Single Page Responsive
+       ============================ */
+    .blog-banner {
+        margin-bottom: 30px;
+    }
+    .blog-banner .publisher {
+        display: block;
+        padding-bottom: 10px;
+    }
+    .blog-banner i {
+        margin-right: 5px;
+        margin-left: 0;
+    }
+    .blog-banner span {
+        margin-right: 20px;
+    }
+    .single-blog-content .strong {
+        margin-left: 15px;
+        padding-left: 15px;
+    }
+    .share-content a {
+        font-size: 24px;
+        margin-left: 25px;
+    }
+    .share-content {
+        margin-bottom: 30px;
+    }
+    .recomment {
+        padding-left: 40px;
+    }
+    .blog-comments .name-time .name {
+        display: block;
+    }
+    .blog-comments .name-time .time {
+        margin-left: 0;
+        display: block;
+        padding-bottom: 10px;
+    }
+    /* ==========================
+        Error 404 Page Responsive
+       ========================== */
+    /* ==== Error 404 section start ==== */
+    #error-page h1 {
+        font: 700 80px/100px 'Montserrat', sans-serif;
+    }
+    #error {
+        padding-top: 30px;
+    }
+    #error-page p {
+        font: 700 30px/40px 'Montserrat', sans-serif;
+    }
+    #error-page .home-btn a {
+        font: 700 25px/35px 'Montserrat', sans-serif;
+        padding: 15px 30px;
+        border-radius: 5px;
+        margin-top: 30px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+    #error-page .icon {
+        margin-top: 20px;
+    }
+    #error-page .icon a {
+        font-size: 20px;
+        width: 35px;
+        height: 35px;
+        margin: 0 5px;
+    }
+    /* ==== Error 404 section end ==== */
+}
